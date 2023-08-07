@@ -1,0 +1,52 @@
+}
+#mee{
+color:green
+background-color:lightgreen	
+}
+a{
+	color:hotpink
+}
+form {
+  background-color: #4654e1;
+  width: 1500px;
+  height: 44px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+\button {
+  all: unset;
+  cursor: pointer;
+  width: 44px;
+  height: 44px;
+}
+
+svg {
+  color: blue;
+  fill: currentColor;
+  width: 24px;
+  height: 24px;
+  padding: 10px;
+}
+#query{
+width:500px
+	background-color:blue
+::placeholder {
+  color: #fff;
+  opacity: 0.7; 
+}
+button {
+  all: unset;
+  cursor: pointer;
+  width: 44px;
+  height: 44px;
+}
+
+svg {
+  color: #fff;
+  fill: currentColor;
+  width: 24px;
+  height: 24px;
+  padding: 10px;
+}	
